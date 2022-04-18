@@ -1,0 +1,6 @@
+projectKey=nex_pcf
+serverUrl=https://sonarqube.nexval.com
+serverVersion=9.3.0.51899
+dashboardUrl=https://sonarqube.nexval.com/dashboard?id=nex_pcf
+ceTaskId=AX-WQ_w-ILUMGyS6wusn
+ceTaskUrl=https://sonarqube.nexval.com/api/ce/task?id=AX-WQ_w-ILUMGyS6wusn

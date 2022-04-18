@@ -1,0 +1,9 @@
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.PCF.Framework\bin\Debug\netcoreapp3.1\Shared.PCF.Framework.deps.json
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.PCF.Framework\bin\Debug\netcoreapp3.1\Shared.PCF.Framework.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.PCF.Framework\bin\Debug\netcoreapp3.1\Shared.PCF.Framework.pdb
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.PCF.Framework\obj\Debug\netcoreapp3.1\Shared.PCF.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.PCF.Framework\obj\Debug\netcoreapp3.1\Shared.PCF.Framework.AssemblyInfoInputs.cache
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.PCF.Framework\obj\Debug\netcoreapp3.1\Shared.PCF.Framework.AssemblyInfo.cs
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.PCF.Framework\obj\Debug\netcoreapp3.1\Shared.PCF.Framework.csproj.CoreCompileInputs.cache
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.PCF.Framework\obj\Debug\netcoreapp3.1\Shared.PCF.Framework.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.PCF.Framework\obj\Debug\netcoreapp3.1\Shared.PCF.Framework.pdb

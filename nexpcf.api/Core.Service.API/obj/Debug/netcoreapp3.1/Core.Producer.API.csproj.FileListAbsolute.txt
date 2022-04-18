@@ -1,0 +1,838 @@
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.exe
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.deps.json
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.json
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.dev.json
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Automatonymous.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\GreenPipes.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\NewId.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.pdb
+D:\Projects\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Projects\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.AssemblyReference.cache
+D:\Projects\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfoInputs.cache
+D:\Projects\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfo.cs
+D:\Projects\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CoreCompileInputs.cache
+D:\Projects\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.Manifest.cache
+D:\Projects\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.xml
+D:\Projects\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Core.Producer.API.styles.css
+D:\Projects\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.RazorTargetAssemblyInfo.cache
+D:\Projects\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CopyComplete
+D:\Projects\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Projects\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Projects\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.genruntimeconfig.cache
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.exe
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.deps.json
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.json
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.dev.json
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Automatonymous.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\GreenPipes.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\NewId.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.pdb
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.AssemblyReference.cache
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfoInputs.cache
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfo.cs
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.Manifest.cache
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.xml
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Core.Producer.API.styles.css
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.RazorTargetAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CopyComplete
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.genruntimeconfig.cache
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.exe
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.deps.json
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.json
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.dev.json
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Automatonymous.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\GreenPipes.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\NewId.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.pdb
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.AssemblyReference.cache
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfoInputs.cache
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfo.cs
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.Manifest.cache
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.xml
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Core.Producer.API.styles.css
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.RazorTargetAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CopyComplete
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.genruntimeconfig.cache
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.exe
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.deps.json
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.json
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.dev.json
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Automatonymous.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\GreenPipes.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\NewId.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.pdb
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.AssemblyReference.cache
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfoInputs.cache
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfo.cs
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CoreCompileInputs.cache
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.Manifest.cache
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.xml
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Core.Producer.API.styles.css
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.RazorTargetAssemblyInfo.cache
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CopyComplete
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Projects\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.genruntimeconfig.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.exe
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.deps.json
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.json
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.dev.json
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Automatonymous.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\GreenPipes.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\NewId.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.pdb
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.AssemblyReference.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfoInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfo.cs
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.Manifest.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.xml
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Core.Producer.API.styles.css
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.RazorTargetAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CopyComplete
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.genruntimeconfig.cache
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.exe
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.deps.json
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.json
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.dev.json
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Automatonymous.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\GreenPipes.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\NewId.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.pdb
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.AssemblyReference.cache
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfoInputs.cache
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfo.cs
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CoreCompileInputs.cache
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.Manifest.cache
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.xml
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Core.Producer.API.styles.css
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.RazorTargetAssemblyInfo.cache
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CopyComplete
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.genruntimeconfig.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.exe
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.deps.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.dev.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Automatonymous.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\GreenPipes.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\NewId.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.AssemblyReference.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfoInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfo.cs
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.Manifest.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.xml
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Core.Producer.API.styles.css
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.RazorTargetAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CopyComplete
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.genruntimeconfig.cache
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.exe
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.deps.json
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.json
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.dev.json
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Automatonymous.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\GreenPipes.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\NewId.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.pdb
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.AssemblyReference.cache
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfoInputs.cache
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfo.cs
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CoreCompileInputs.cache
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.Manifest.cache
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.xml
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Core.Producer.API.styles.css
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.RazorTargetAssemblyInfo.cache
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CopyComplete
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.genruntimeconfig.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.exe
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.deps.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.dev.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Automatonymous.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\GreenPipes.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\NewId.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.AssemblyReference.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfoInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfo.cs
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.Manifest.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.xml
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Core.Producer.API.styles.css
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.RazorTargetAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CopyComplete
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.genruntimeconfig.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.exe
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.deps.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.dev.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Automatonymous.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\GreenPipes.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\NewId.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Thread.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Thread.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.AssemblyReference.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfoInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfo.cs
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.Manifest.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.xml
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Core.Producer.API.styles.css
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.RazorTargetAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CopyComplete
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.genruntimeconfig.cache
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.exe
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.deps.json
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.json
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.runtimeconfig.dev.json
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Automatonymous.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\GreenPipes.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\NewId.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Data.pdb
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.AssemblyReference.cache
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfoInputs.cache
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.AssemblyInfo.cs
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CoreCompileInputs.cache
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.Manifest.cache
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Core.Producer.API.StaticWebAssets.xml
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Core.Producer.API.styles.css
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.RazorTargetAssemblyInfo.cache
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.csproj.CopyComplete
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.pdb
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Core.Service.API\obj\Debug\netcoreapp3.1\Core.Producer.API.genruntimeconfig.cache

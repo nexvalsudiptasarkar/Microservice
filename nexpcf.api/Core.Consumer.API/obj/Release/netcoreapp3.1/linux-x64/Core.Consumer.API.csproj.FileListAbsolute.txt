@@ -1,0 +1,208 @@
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\appsettings.Development.json
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\appsettings.json
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.deps.json
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.runtimeconfig.json
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.runtimeconfig.dev.json
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.pdb
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Automatonymous.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\BouncyCastle.Crypto.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Google.Protobuf.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\GreenPipes.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\K4os.Compression.LZ4.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\K4os.Compression.LZ4.Streams.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\K4os.Hash.xxHash.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MassTransit.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MassTransit.AspNetCoreIntegration.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MassTransit.RabbitMqTransport.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Options.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Primitives.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MySql.Data.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Ubiety.Dns.Core.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\ZstdNet.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\NewId.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Newtonsoft.Json.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Newtonsoft.Json.Bson.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\RabbitMQ.Client.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Configuration.ConfigurationManager.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Text.Encodings.Web.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Text.Json.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Threading.Channels.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Shared.Data.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Shared.Data.pdb
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.AssemblyInfoInputs.cache
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.AssemblyInfo.cs
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\Core.Consumer.API.StaticWebAssets.Manifest.cache
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\Core.Consumer.API.StaticWebAssets.xml
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\scopedcss\bundle\Core.Consumer.API.styles.css
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.RazorTargetAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.csproj.CopyComplete
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.pdb
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.genruntimeconfig.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\appsettings.Development.json
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\appsettings.json
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.deps.json
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.runtimeconfig.json
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.runtimeconfig.dev.json
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.pdb
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Automatonymous.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\BouncyCastle.Crypto.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Google.Protobuf.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\GreenPipes.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\K4os.Compression.LZ4.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\K4os.Compression.LZ4.Streams.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\K4os.Hash.xxHash.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MassTransit.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MassTransit.AspNetCoreIntegration.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MassTransit.RabbitMqTransport.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Options.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Primitives.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MySql.Data.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Ubiety.Dns.Core.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\ZstdNet.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\NewId.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Newtonsoft.Json.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Newtonsoft.Json.Bson.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\RabbitMQ.Client.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Serilog.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Serilog.Extensions.Logging.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Serilog.Extensions.Logging.File.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Serilog.Formatting.Compact.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Serilog.Sinks.Async.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Serilog.Sinks.File.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Serilog.Sinks.RollingFile.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Configuration.ConfigurationManager.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Text.Encodings.Web.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Text.Json.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Threading.Channels.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Shared.Data.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Shared.Data.pdb
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.AssemblyInfoInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.AssemblyInfo.cs
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\Core.Consumer.API.StaticWebAssets.Manifest.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\Core.Consumer.API.StaticWebAssets.xml
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\scopedcss\bundle\Core.Consumer.API.styles.css
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.RazorTargetAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.csproj.CopyComplete
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.pdb
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.genruntimeconfig.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MySqlConnector.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\appsettings.Development.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\appsettings.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.deps.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.runtimeconfig.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.runtimeconfig.dev.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Automatonymous.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\BouncyCastle.Crypto.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\DnsClient.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Google.Protobuf.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\GreenPipes.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\K4os.Compression.LZ4.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\K4os.Compression.LZ4.Streams.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\K4os.Hash.xxHash.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MassTransit.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MassTransit.AspNetCoreIntegration.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MassTransit.RabbitMqTransport.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Options.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Primitives.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Win32.Registry.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MongoDB.Bson.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MongoDB.Driver.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MongoDB.Driver.Core.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MongoDB.Libmongocrypt.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MySql.Data.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Ubiety.Dns.Core.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\ZstdNet.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\MySqlConnector.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\NewId.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Newtonsoft.Json.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Newtonsoft.Json.Bson.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\RabbitMQ.Client.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Serilog.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Serilog.Extensions.Logging.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Serilog.Extensions.Logging.File.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Serilog.Formatting.Compact.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Serilog.Sinks.Async.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Serilog.Sinks.File.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Serilog.Sinks.RollingFile.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\SharpCompress.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Configuration.ConfigurationManager.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Security.AccessControl.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Security.Cryptography.ProtectedData.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Security.Principal.Windows.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Text.Encodings.Web.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Text.Json.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\System.Threading.Channels.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\libsnappy64.so
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\libzstd.so
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\libmongocrypt.so
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Shared.Data.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Shared.Data.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\bin\Release\netcoreapp3.1\linux-x64\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.AssemblyInfoInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.AssemblyInfo.cs
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\Core.Consumer.API.StaticWebAssets.Manifest.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\Core.Consumer.API.StaticWebAssets.xml
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\scopedcss\bundle\Core.Consumer.API.styles.css
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.RazorTargetAssemblyInfo.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.csproj.CopyComplete
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Core.Consumer.API\obj\Release\netcoreapp3.1\linux-x64\Core.Consumer.API.genruntimeconfig.cache

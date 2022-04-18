@@ -1,0 +1,28 @@
+Product projects
+---------------------------------------
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\Shared.Models.csproj
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Data\Shared.Data.csproj
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Worker\Core.Worker.csproj
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Service.API\Core.Producer.API.csproj
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Core.Consumer.API\Core.Consumer.API.csproj
+
+
+Test projects
+---------------------------------------
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

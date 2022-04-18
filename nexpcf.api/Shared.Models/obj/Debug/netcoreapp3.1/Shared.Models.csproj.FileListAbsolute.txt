@@ -1,0 +1,107 @@
+D:\Projects\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.deps.json
+D:\Projects\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Projects\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Projects\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfoInputs.cache
+D:\Projects\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfo.cs
+D:\Projects\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.CoreCompileInputs.cache
+D:\Projects\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Projects\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Projects\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.AssemblyReference.cache
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.deps.json
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfoInputs.cache
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfo.cs
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.AssemblyReference.cache
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.deps.json
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfoInputs.cache
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfo.cs
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api (1)\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.AssemblyReference.cache
+D:\Projects\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.deps.json
+D:\Projects\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Projects\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Projects\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.AssemblyReference.cache
+D:\Projects\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfoInputs.cache
+D:\Projects\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfo.cs
+D:\Projects\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.CoreCompileInputs.cache
+D:\Projects\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Projects\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.deps.json
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfoInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfo.cs
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.deps.json
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.AssemblyReference.cache
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfoInputs.cache
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfo.cs
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.CoreCompileInputs.cache
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.dll
+D:\back up\D\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api.logger\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.AssemblyReference.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.deps.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfoInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfo.cs
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.deps.json
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.AssemblyReference.cache
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfoInputs.cache
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfo.cs
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.CoreCompileInputs.cache
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Projects\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.deps.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.AssemblyReference.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfoInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfo.cs
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.upt\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.deps.json
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfoInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfo.cs
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.CoreCompileInputs.cache
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\NexAEI\nexpcf.api.logger.local.queue.custome.thread.pool\nexpcf.api.logger.local.queue\nexpcf.api\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.deps.json
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfoInputs.cache
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfo.cs
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.CoreCompileInputs.cache
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.dll
+D:\Project\nexpcf.api.logger.local.queue. v-7.0\nexpcf.api.logger.local.queue\nexpcf.api\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.pdb

@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Project\\nexpcf.api.logger.local.queue. v-7.0\\nexpcf.api.logger.local.queue\\nexpcf.api\\Shared.Data\\Shared.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\Project\\nexpcf.api.logger.local.queue. v-7.0\\nexpcf.api.logger.local.queue\\nexpcf.api\\Shared.Data\\Shared.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\nexpcf.api.logger.local.queue. v-7.0\\nexpcf.api.logger.local.queue\\nexpcf.api\\Shared.Data\\Shared.Data.csproj",
+        "projectName": "Shared.Data",
+        "projectPath": "D:\\Project\\nexpcf.api.logger.local.queue. v-7.0\\nexpcf.api.logger.local.queue\\nexpcf.api\\Shared.Data\\Shared.Data.csproj",
+        "packagesPath": "C:\\Users\\sudipta.sarkar\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\nexpcf.api.logger.local.queue. v-7.0\\nexpcf.api.logger.local.queue\\nexpcf.api\\Shared.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sudipta.sarkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Project\\nexpcf.api.logger.local.queue. v-7.0\\nexpcf.api.logger.local.queue\\nexpcf.api\\Shared.Models\\Shared.Models.csproj": {
+                "projectPath": "D:\\Project\\nexpcf.api.logger.local.queue. v-7.0\\nexpcf.api.logger.local.queue\\nexpcf.api\\Shared.Models\\Shared.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.15.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.15.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.28, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "Serilog.Extensions.Logging.File": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\nexpcf.api.logger.local.queue. v-7.0\\nexpcf.api.logger.local.queue\\nexpcf.api\\Shared.Models\\Shared.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\nexpcf.api.logger.local.queue. v-7.0\\nexpcf.api.logger.local.queue\\nexpcf.api\\Shared.Models\\Shared.Models.csproj",
+        "projectName": "Shared.Models",
+        "projectPath": "D:\\Project\\nexpcf.api.logger.local.queue. v-7.0\\nexpcf.api.logger.local.queue\\nexpcf.api\\Shared.Models\\Shared.Models.csproj",
+        "packagesPath": "C:\\Users\\sudipta.sarkar\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\nexpcf.api.logger.local.queue. v-7.0\\nexpcf.api.logger.local.queue\\nexpcf.api\\Shared.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sudipta.sarkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.15.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
